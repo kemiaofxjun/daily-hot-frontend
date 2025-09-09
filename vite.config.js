@@ -60,7 +60,7 @@ export default defineConfig(({ mode }) => {
           background_color: "#efefef",
           icons: [
             {
-              src: "/ico/favicon.png",
+              src: "https://img.314926.xyz/images/2025/08/13/no-background-kemiaofxjun.webp",
               sizes: "200x200",
               type: "image/png",
             },
