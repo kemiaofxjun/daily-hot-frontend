@@ -5,18 +5,18 @@
       <n-text 
         class="own-by"
         :depth="3"
-         @click="jumpLink('https://www.liushen.fun/')">LiuShen</n-text>
+         @click="jumpLink('https:/home.kemeow.top/')">克喵爱吃卤面</n-text>
        | Built By 
       <n-text 
         class="built-by"
         :depth="3"
-        @click="jumpLink('https://github.com/willow-god')"
-      >willow-god</n-text>
+        @click="jumpLink('https://github.com/kemiaofxjun')"
+      >克喵爱吃卤面</n-text>
       | Contact Me By
       <n-text 
         class="built-by"
         :depth="3"
-        @click="jumpLink('mailto:01@liushen.fun')"
+        @click="jumpLink('mailto:me@mail.kemeow.top')"
       >Email</n-text>
     </div>
     <div class="copyright">
@@ -34,7 +34,7 @@
       :depth="3"
       class="icp"
       v-html="gongan"
-      @click="jumpLink('https://beian.mps.gov.cn/#/query/webSearch?code=61011602000637')"
+      @click="jumpLink('https://icp.gov.moe/?keyword=20250530')"
     />
      | 
      <n-text
@@ -42,7 +42,7 @@
       :depth="3"
       class="icp"
       v-html="icp"
-      @click="jumpLink('https://beian.miit.gov.cn/')"
+      @click="jumpLink('https://icp.redcha.cn/beian/ICP-2025090150.html')"
     />
     </div>
   </footer>
