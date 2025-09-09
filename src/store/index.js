@@ -140,12 +140,12 @@ export const mainStore = defineStore("mainData", {
           order: 21,
           show: true,
         },
-        {
-          label: "简书",
-          name: "jianshu",
-          order: 22,
-          show: true,
-        },
+        // {
+        //   label: "简书",
+        //   name: "jianshu",
+        //   order: 22,
+        //   show: true,
+        // },
         {
           label: "知乎日报",
           name: "zhihu-daily",
